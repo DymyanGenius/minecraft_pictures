@@ -1,0 +1,18 @@
+{
+  "parent": "bigger_vanilla:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:dragon_head"
+    },
+    "title": "Голос мира",
+    "description": "Победи дракона и открой выбор финала.",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "granted_by_story": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
