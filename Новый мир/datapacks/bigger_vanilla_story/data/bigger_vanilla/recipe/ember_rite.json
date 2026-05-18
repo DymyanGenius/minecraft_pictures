@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " G ",
+    "GBG",
+    " R "
+  ],
+  "key": {
+    "G": "minecraft:gunpowder",
+    "B": "minecraft:blaze_rod",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "minecraft:fire_charge",
+    "count": 3
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GPG",
+    "PEP",
+    "GPG"
+  ],
+  "key": {
+    "G": "minecraft:glass",
+    "P": "minecraft:phantom_membrane",
+    "E": "minecraft:ender_eye"
+  },
+  "result": {
+    "id": "minecraft:end_crystal",
+    "count": 1
+  }
+}

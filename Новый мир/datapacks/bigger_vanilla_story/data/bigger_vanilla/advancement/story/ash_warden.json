@@ -1,0 +1,18 @@
+{
+  "parent": "bigger_vanilla:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:blackstone"
+    },
+    "title": "Пепельный Страж",
+    "description": "Вызови мини-босса Незера через ритуал чернита.",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "granted_by_story": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
