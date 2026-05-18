@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "C",
+    "S",
+    "F"
+  ],
+  "key": {
+    "C": "minecraft:coal",
+    "S": "minecraft:stick",
+    "F": "minecraft:flint"
+  },
+  "result": {
+    "id": "minecraft:torch",
+    "count": 6
+  }
+}
