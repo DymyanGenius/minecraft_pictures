@@ -1,0 +1,18 @@
+{
+  "parent": "bigger_vanilla:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:end_stone"
+    },
+    "title": "Последнее небо",
+    "description": "Войди в Край, где заканчивается старая ваниль.",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "granted_by_story": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
