@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "FS",
+    "PP"
+  ],
+  "key": {
+    "F": "minecraft:flint",
+    "S": "minecraft:string",
+    "P": "#minecraft:planks"
+  },
+  "result": {
+    "id": "minecraft:crafting_table"
+  }
+}

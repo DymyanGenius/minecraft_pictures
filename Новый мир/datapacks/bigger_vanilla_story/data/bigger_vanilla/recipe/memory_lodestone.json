@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "ACA",
+    " N "
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "C": "minecraft:compass",
+    "N": "minecraft:netherite_scrap"
+  },
+  "result": {
+    "id": "minecraft:lodestone",
+    "count": 1
+  }
+}
