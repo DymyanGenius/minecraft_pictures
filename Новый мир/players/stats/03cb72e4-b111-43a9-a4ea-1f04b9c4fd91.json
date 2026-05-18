@@ -1,0 +1,49 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:wither_skeleton": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1255,
+      "minecraft:walk_one_cm": 26011,
+      "minecraft:leave_game": 6,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 680,
+      "minecraft:damage_dealt": 334,
+      "minecraft:interact_with_lectern": 12,
+      "minecraft:play_time": 18820,
+      "minecraft:jump": 32,
+      "minecraft:time_since_death": 1234,
+      "minecraft:sprint_one_cm": 7604,
+      "minecraft:open_chest": 3,
+      "minecraft:total_world_time": 19487,
+      "minecraft:fly_one_cm": 2565,
+      "minecraft:crouch_one_cm": 100,
+      "minecraft:sneak_time": 95,
+      "minecraft:deaths": 2
+    },
+    "minecraft:used": {
+      "minecraft:black_concrete": 1,
+      "minecraft:oak_button": 2,
+      "minecraft:glowstone": 1,
+      "minecraft:soul_torch": 1
+    },
+    "minecraft:mined": {
+      "minecraft:oak_button": 1,
+      "minecraft:soul_torch": 1,
+      "minecraft:glowstone": 2
+    },
+    "minecraft:crafted": {
+      "minecraft:glowstone": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:glowstone_dust": 5,
+      "minecraft:soul_torch": 3,
+      "minecraft:redstone_torch": 4,
+      "minecraft:bone": 2,
+      "minecraft:red_carpet": 25,
+      "minecraft:oak_button": 2
+    }
+  },
+  "DataVersion": 4790
+}
